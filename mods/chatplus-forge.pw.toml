@@ -1,0 +1,11 @@
+name = "chatplus-forge-2.6.0.jar"
+filename = "chatplus-forge-2.6.0.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Gregorsharpe/craft-to-exile-2-eartharia-edition/refs/heads/main/annoying-mods/chatplus-forge-2.6.0.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "19905c7d4250b26247d26f71db55810cbfc1f9d8eb1a575c1797148c48bf491d"

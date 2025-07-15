@@ -1,0 +1,11 @@
+name = "enhanced_boss_bars-1.20.1-1.0.0.jar"
+filename = "enhanced_boss_bars-1.20.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Gregorsharpe/craft-to-exile-2-eartharia-edition/refs/heads/main/annoying-mods/enhanced_boss_bars-1.20.1-1.0.0.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c86c6e909ec4731efaae4b97bb06d7d5a559794861c5805491ee0da0497c4877"
