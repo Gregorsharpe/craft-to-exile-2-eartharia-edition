@@ -27655,7 +27655,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
@@ -28404,6 +28404,11 @@ hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "c1d1a67fd1aa59ef8ff134b5801d0ffee92610ec6639562617dc283eaf3c2274"
+metafile = true
+
+[[files]]
 file = "mods/hidenameplates.pw.toml"
 hash = "d7edc256eacaf1a55392f40f9c652e147c387f2a2e7e7e8e1bd8528dd84e0853"
 metafile = true
@@ -28461,6 +28466,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter-configurable.pw.toml"
 hash = "38a72fbee92dd05ee980ccb70857c1e3ed638b4bdcc65ac646a05d6a77deaf58"
+metafile = true
+
+[[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "7ee7fbc2db9d16a8d1aab7b3e733ff48c2b098b5b91b2ad9b067072460200594"
 metafile = true
 
 [[files]]
@@ -28550,7 +28560,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
 
 [[files]]
@@ -29131,6 +29141,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "3fff9456c0ef97caab6584a10517f20822e138b627da4b26c8c46e6330d7e7cd"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
