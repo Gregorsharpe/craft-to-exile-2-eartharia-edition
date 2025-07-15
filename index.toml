@@ -29510,6 +29510,10 @@ file = "scripts/hide_jei.zs"
 hash = "0b4d84dba23c68b55208066a1df92476302322ac497f38323f4e593ab289af14"
 
 [[files]]
+file = "servers.dat"
+hash = "ec711d131555648e3245d9178b354029609b61f4889299b66e6ee733aae1c40b"
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5/ComplementaryLicense.txt"
 hash = "02057f46b85dc4ec7684efcb5e140c429f2652abdc5e95f3c198e603d922f629"
 
