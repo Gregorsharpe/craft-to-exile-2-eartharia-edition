@@ -27850,8 +27850,9 @@ hash = "da9026c48b5c6bc9eab17bca48f4b1fd8540fcae23365d63c9d7c4e5c7eb0a30"
 metafile = true
 
 [[files]]
-file = "mods/chatplus-forge-2.6.0.jar"
-hash = "19905c7d4250b26247d26f71db55810cbfc1f9d8eb1a575c1797148c48bf491d"
+file = "mods/chatplus-forge.pw.toml"
+hash = "da6b3b168c2622ac30899823cce67e7e70ebd80350cc80fec9b86083c7c68807"
+metafile = true
 
 [[files]]
 file = "mods/chimes.pw.toml"
@@ -28174,13 +28175,14 @@ hash = "0aedafac6c4bc39daf0e96c45da4664060f6ab156458455b0c3b5e9648f004cb"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-celestials.pw.toml"
-hash = "885221a000410ecbababafdbc18cc530c911ed86346dee14706df70dcc728030"
+file = "mods/enhanced-boss-bars.pw.toml"
+hash = "4cc56f58e88e88b3d04b69f6d611464bd6c950d9cb2228d42021119d2d0e11b6"
 metafile = true
 
 [[files]]
-file = "mods/enhanced_boss_bars-1.20.1-1.0.0.jar"
-hash = "c86c6e909ec4731efaae4b97bb06d7d5a559794861c5805491ee0da0497c4877"
+file = "mods/enhanced-celestials.pw.toml"
+hash = "885221a000410ecbababafdbc18cc530c911ed86346dee14706df70dcc728030"
+metafile = true
 
 [[files]]
 file = "mods/entityculling-forge-1.8.1-mc1.20.1.jar"
@@ -28496,7 +28498,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic-lite.pw.toml"
-hash = "a5fce7042fd6a902a7f67df5488dd96d3b82f1c5c818db3e5bd7c3a3aeb6adff"
+hash = "3049a02d3bbbe1495802f35d7d49765c24b4d5975e0ef68286ccbf298c6838e6"
 metafile = true
 
 [[files]]
@@ -28591,7 +28593,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "35c0251ad56fdf68faef3ea142fe0b76016937ab6fa52b65ce222ea7d1fb5b74"
+hash = "bbbef26097069430126ba44de152dda9c72c8b2ec2ff3c5036d526f069de8c09"
 metafile = true
 
 [[files]]
@@ -28839,7 +28841,7 @@ metafile = true
 
 [[files]]
 file = "mods/nofog.pw.toml"
-hash = "95e821540b189fa3fa3f887dfb13debe2f0f412095ec9fecd1d612de0373bf55"
+hash = "ee7b2a2c793771002c03ce3e8b3c1e80e2bf249a2213143ecce15f9dfc52663e"
 metafile = true
 
 [[files]]
@@ -28873,7 +28875,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
 metafile = true
 
 [[files]]
