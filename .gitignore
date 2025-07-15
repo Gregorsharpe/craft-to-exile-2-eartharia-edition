@@ -1,0 +1,4 @@
+# Exclude exported Modrinth modpacks
+*.mrpack
+config/fancymenu/assets/mahj_1294853429_mainmenu.fma
+config/openloader/resources/resources.zip

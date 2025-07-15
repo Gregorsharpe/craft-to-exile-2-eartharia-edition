@@ -1,0 +1,348 @@
+{
+	"content": {
+
+		"low_rep_common_experience": {
+			"name": "Small Bounty Hunting Experience",
+			"icon": "ftb_ph:exp",
+			"type": "command",
+			"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 40",
+			"rarity": "COMMON",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1000,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 50"
+				},
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 60"
+				}
+			]
+		},
+
+		"med_rep_common_experience": {
+			"name": "Small Bounty Hunting Experience+",
+			"icon": "ftb_ph:exp",
+			"type": "command",
+			"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 50",
+			"rarity": "COMMON",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"repRequired": 15,
+			"unitWorth": 1000,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 40"
+				},
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 60"
+				}
+			]
+		},
+
+		"high_rep_common_experience": {
+			"name": "Small Bounty Hunting Experience++",
+			"icon": "ftb_ph:exp",
+			"type": "command",
+			"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 60",
+			"rarity": "COMMON",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"repRequired": 30,
+			"unitWorth": 1000,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 40"
+				},
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 50"
+				}
+			]
+		},
+
+		"low_rep_rare_experience": {
+			"name": "Medium Bounty Hunting Experience",
+			"icon": "ftb_ph:exp",
+			"type": "command",
+			"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 200",
+			"rarity": "RARE",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"repRequired": 5,
+			"unitWorth": 3000,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 250"
+				},
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 300"
+				}
+			]
+		},
+
+		"med_rep_rare_experience": {
+			"name": "Medium Bounty Hunting Experience+",
+			"icon": "ftb_ph:exp",
+			"type": "command",
+			"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 250",
+			"rarity": "RARE",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"repRequired": 20,
+			"unitWorth": 3000,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 200"
+				},
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 300"
+				}
+			]
+		},
+
+		"high_rep_rare_experience": {
+			"name": "Medium Bounty Hunting Experience++",
+			"icon": "ftb_ph:exp",
+			"type": "command",
+			"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 300",
+			"rarity": "RARE",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"repRequired": 35,
+			"unitWorth": 3000,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 200"
+				},
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 250"
+				}
+			]
+		},
+
+		"low_rep_legendary_experience": {
+			"name": "Large Bounty Hunting Experience",
+			"icon": "ftb_ph:exp",
+			"type": "command",
+			"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 1000",
+			"rarity": "LEGENDARY",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"repRequired": 10,
+			"unitWorth": 9000,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 1250"
+				},
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 1500"
+				}
+			]
+		},
+
+		"med_rep_legendary_experience": {
+			"name": "Large Bounty Hunting Experience+",
+			"icon": "ftb_ph:exp",
+			"type": "command",
+			"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 1250",
+			"rarity": "LEGENDARY",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"repRequired": 25,
+			"unitWorth": 9000,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 1000"
+				},
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 1500"
+				}
+			]
+		},
+
+		"high_rep_legendary_experience": {
+			"name": "Large Bounty Hunting Experience++",
+			"icon": "ftb_ph:exp",
+			"type": "command",
+			"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 1500",
+			"rarity": "LEGENDARY",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"repRequired": 40,
+			"unitWorth": 9000,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 1000"
+				},
+				{
+					"type": "command",
+					"content": "/mine_and_slash give prof_xp_times_lvl %PLAYER_NAME% husbandry 1250"
+				}
+			]
+		},
+
+		"l_rep_bounty_slip": {
+			"type": "item",
+			"content": "mns_extras:bounty_slip",
+			"rarity": "UNCOMMON",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"repRequired": 1,
+			"unitWorth": 250,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "mns_extras:bounty_slip"
+				}
+			]
+		},
+
+		"l0_rep_bounty_slip": {
+			"type": "item",
+			"content": "mns_extras:bounty_slip",
+			"rarity": "UNCOMMON",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"repRequired": 10,
+			"unitWorth": 200,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "mns_extras:bounty_slip"
+				}
+			]
+		},
+
+		"20_rep_bounty_slip": {
+			"type": "item",
+			"content": "mns_extras:bounty_slip",
+			"rarity": "UNCOMMON",
+			"amount": {
+				"min": 1,
+				"max": 16
+			},
+			"repRequired": 20,
+			"unitWorth": 150,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "mns_extras:bounty_slip"
+				}
+			]
+		},
+
+		"30_rep_bounty_slip": {
+			"type": "item",
+			"content": "mns_extras:empowered_bounty_slip",
+			"rarity": "EPIC",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"repRequired": 30,
+			"unitWorth": 10000,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "mns_extras:empowered_bounty_slip"
+				}
+			]
+		},
+
+		"40_rep_bounty_slip": {
+			"type": "item",
+			"content": "mns_extras:empowered_bounty_slip",
+			"rarity": "EPIC",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"repRequired": 30,
+			"unitWorth": 8000,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "mns_extras:empowered_bounty_slip"
+				}
+			]
+		}
+,
+
+		"50_rep_bounty_slip": {
+			"type": "item",
+			"content": "mns_extras:empowered_bounty_slip",
+			"rarity": "EPIC",
+			"amount": {
+				"min": 1,
+				"max": 8
+			},
+			"repRequired": 30,
+			"unitWorth": 6000,
+			"weightMult": 1.0,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "mns_extras:empowered_bounty_slip"
+				}
+			]
+		}
+
+
+
+	}
+
+
+}

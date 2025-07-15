@@ -1,0 +1,13 @@
+name = "Constant Music"
+filename = "constantmusic-forge-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "256cb899ce80436cb35c146df54c98a92e33406d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5748142
+project-id = 949032

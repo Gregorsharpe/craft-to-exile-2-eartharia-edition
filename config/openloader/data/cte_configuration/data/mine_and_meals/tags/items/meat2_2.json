@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"farmersdelight:roast_chicken","required":false},
+    {"id":"farmersdelight:honey_glazed","required":false},
+    {"id":"farmersdelight:shepherds_pie","required":false},
+    {"id":"largemeals:roasted_mutton_rack","required":false},
+    {"id":"delightful:deluxe_cheese_burger","required":false },
+
+    {"id":"italydelight:large_pizza","required":false},
+
+    {"id":"nethersdelight:plate_of_stuffed_hoglin_snout","required":false},
+    {"id":"nethersdelight:plate_of_stuffed_hoglin_ham","required":false},
+    {"id":"nethersdelight:plate_of_stuffed_hoglin_roast","required":false},
+
+    {"id":"candlelight:pasta_with_bolognese","required":false},
+    {"id":"candlelight:beef_with_mushroom_in_wine_and_potatoes","required":false},
+    {"id":"candlelight:lasagna","required":false},
+    {"id":"candlelight:beef_wellington","required":false},
+    {"id":"meadow:roasted_ham","required":false },
+    {"id":"crabbersdelight:cooked_crab","required":false },
+    {"id":"crabbersdelight:cooked_clawster","required":false }
+
+  ]
+}

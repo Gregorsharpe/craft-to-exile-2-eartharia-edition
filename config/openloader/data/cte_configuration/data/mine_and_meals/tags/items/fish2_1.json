@@ -1,0 +1,36 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"farmersdelight:fish_stew","required":false},
+    {"id":"farmersdelight:baked_cod_stew","required":false},
+    {"id":"farmersdelight:squid_ink_pasta","required":false},
+    {"id":"farmersdelight:grilled_salmon","required":false},
+
+    {"id":"largemeals:cod_deluxe","required":false},
+
+    {"id":"delightful:cooked_salmon_sandwich","required":false },
+    {"id":"delightful:cooked_cod_sandwich","required":false },
+    {"id":"delightful:singang","required":false },
+
+    {"id":"aquaculturedelight:bass_stew","required":false},
+    {"id":"aquaculturedelight:unusual_fish_soup","required":false},
+    {"id":"aquaculturedelight:halazle","required":false},
+    {"id":"aquaculturedelight:buckling","required":false},
+
+    {"id":"bakery:grilled_salmon_sandwich","required":false},
+    {"id":"candlelight:tropical_fish_supreme","required":false},
+    {"id":"candlelight:salmon_on_white_wine","required":false},
+    {"id":"farm_and_charm:cooked_salomon","required":false },
+    {"id":"farm_and_charm:cooked_cod","required":false },
+	
+    {"id":"blue_skies:cooked_grittle_flatfish","required":false },
+    {"id":"blue_skies:cooked_municipal_monkfish","required":false },
+    {"id":"blue_skies:cooked_charscale_moki","required":false },
+    {"id":"blue_skies:cooked_horizofin_tunid","required":false },
+    {"id":"crabbersdelight:cooked_crab","required":false },
+    {"id":"crabbersdelight:cooked_clawster","required":false },
+    {"id":"crabbersdelight:cooked_shrimp","required":false },
+    {"id":"crabbersdelight:cooked_clam_meat","required":false }
+
+  ]
+}

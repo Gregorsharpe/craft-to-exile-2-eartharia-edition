@@ -1,0 +1,13 @@
+name = "Entity Loot Drops"
+filename = "EntityLootDrops-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a85e03948a463b735c989541cbc46b98bb7ce2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6768206
+project-id = 1232534
