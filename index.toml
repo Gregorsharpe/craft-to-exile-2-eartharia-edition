@@ -1473,10 +1473,6 @@ file = "config/defaultoptions/readme.txt"
 hash = "043e2e9b5a32851aa31f90f59493c36bc97cf9d370c8296c27da6a095a96400b"
 
 [[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "c617daaf4ecd408a714c1f72dd768082cf4d77fa16d0789b70ed80599c8493c4"
-
-[[files]]
 file = "config/dimthread-common.toml"
 hash = "115facaa13c3fcb0c0d3a911c4e202b92fee5df2653b1f36f7a64bb6cf8539df"
 
