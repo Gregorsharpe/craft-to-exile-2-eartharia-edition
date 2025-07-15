@@ -27593,6 +27593,10 @@ file = "mods/Structory_Towers_1.20.x_v1.0.7.jar"
 hash = "74aa182524af55e172d7bfcf828dd1c1a3259a304980e7a94fbfbf1f0d9fac0c"
 
 [[files]]
+file = "mods/What's your build-forge-1.20.1-0.3.1.jar"
+hash = "550c766ce8fd30fae7a7b4123f9719c1d3cc25f399344443accaacf6fe7abe23"
+
+[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "2b55b29e563c7bdd3879e67e70816a48640071ba7927bb8294dcfaff94738677"
 metafile = true
@@ -29339,11 +29343,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
-metafile = true
-
-[[files]]
-file = "mods/whats-your-build.pw.toml"
-hash = "378828be19a4700641ce9979acbeaf85b8b0b70989bc1aa3248eab7f0b5d9e76"
 metafile = true
 
 [[files]]
