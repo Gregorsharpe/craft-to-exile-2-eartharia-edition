@@ -28106,6 +28106,11 @@ hash = "4eac3d67379cfbf38a5c7a40a9a89328117fdc5ae0bfeb3acaef5ded00c2d8f0"
 metafile = true
 
 [[files]]
+file = "mods/dtn-community-skin-expansion.pw.toml"
+hash = "3a94a20837f09781c92afbff63efa1d3affff9ef7877aef5e32509bddef2fb25"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-realm.pw.toml"
 hash = "addd2ffe2504a874b84945a4fa6cf10807088d6406d57085c7e1cbd1871239e5"
 metafile = true
