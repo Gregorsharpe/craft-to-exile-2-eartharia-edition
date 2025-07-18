@@ -27747,6 +27747,11 @@ hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
 
 [[files]]
+file = "mods/better-dogs-x-doggy-talents-next.pw.toml"
+hash = "80db178589041112037ca8a590b9208f139bbbbb53c3e1c864414b494c04ba1f"
+metafile = true
+
+[[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "17bb4c973d37556e94baee888ee69f270b6bed2e9b33945ac4172e9417846f68"
 metafile = true
@@ -28103,11 +28108,6 @@ metafile = true
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "4eac3d67379cfbf38a5c7a40a9a89328117fdc5ae0bfeb3acaef5ded00c2d8f0"
-metafile = true
-
-[[files]]
-file = "mods/dtn-community-skin-expansion.pw.toml"
-hash = "3a94a20837f09781c92afbff63efa1d3affff9ef7877aef5e32509bddef2fb25"
 metafile = true
 
 [[files]]
