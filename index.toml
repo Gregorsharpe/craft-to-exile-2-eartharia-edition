@@ -28206,7 +28206,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "bf697489c5b13c7e10cb62508f1b6a3da8855da651a30038332777746865263e"
+hash = "424e70e9a8f809f69d0e38c46ae62347f9fd9bd59ee5ec879184db367e70853f"
 metafile = true
 
 [[files]]
@@ -28674,7 +28674,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
+hash = "bd52722f1417e24a4acee3bf4fc59c5bf074627f7aaaaf8fd33056c7ef170bc3"
 metafile = true
 
 [[files]]
@@ -29082,7 +29082,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "02a4d4b76691ffe046d2287ce78d3a7a16cead699782836b7a65e9e1332f9d29"
+hash = "0f78e6ba42734b57106dd5da71541f370316c96b0396d93a8b688126b4e94529"
 metafile = true
 
 [[files]]
